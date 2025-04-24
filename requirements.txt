@@ -1,0 +1,14 @@
+langchain
+chainlit
+openai
+PyPDF2
+chromadb
+streamlit
+google-generativeai
+python-dotenv
+faiss-cpu
+langchain_google_genai
+llama-index
+llama-index-embeddings-ollama
+llama_index-llms-ollama
+llama-parse 

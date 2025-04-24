@@ -1,0 +1,1340 @@
+[
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 1 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nJA Number \nTitle \nVersion \nEffective Date \nJA-020 \nSalesforce Case Comments & Chatter  \n03 \n06MAR2024 \n \nCONTENTS \n \n1. PURPOSE AND SCOPE ........................................................................................................................ 1 \n2. TRAINING ............................................................................................................................................... 1 \n3. GUIDANCE FOR CASE COMMENTS & CHATTER (ALL ROLES) ...................................................... 2 \n4. INTAKE SPECIALIST (IS) .................................................................................................................. 2-4 \n5. CARE NAVIGATOR (CN) / PATIENT NAVIGATOR (PN) .................................................................. 4-8 \n \n1. PURPOSE AND SCOPE \nThis document is for Novartis Patient Support Center (PSC) Intake Specialist, Patient Navigator, Care \nNavigator, Reimbursement Specialist, and Field Roles (ADAR and ARM). The Job Aid has been created \nfor how and when to use the Case Comments and Chatter functionalities in Salesforce. \n \nTo provide communication guidelines when using Chatter for case communications between the PSC \nReimbursement Specialist (RS), Care Navigator (CN)/Patient Navigator (PN), Intake Specialist (IS), and \nNPS ADAR/ARM roles. The guidelines are intended to support consistency in the use of chatter for PSC \npatient case communication. The job aid provides case comment and chatter \u201cdos and don\u2019ts\u201d and is a \nreference tool for use during training, coaching and quality monitoring of the case when conducted by the \nNPS Performance Excellence Analyst. \n \n2. TRAINING \n \nNPS Role \nPSC Intake Specialist \nCosentyx Care Navigator \nPSC Reimbursement Specialist \nScemblix/Kisqali Patient Navigator \nCosentyx Access & Reimbursement Manager (ARM) \nCosentyx/Scemblix/Kisqali Associate Director, Access & Reimbursement (ADAR) \nPerformance Excellence Analyst supporting Cosentyx, Scemblix, and/or Kisqali \n \n \n*NOTES*:  \n\u2022 \nThe following case comments and chatters are examples and are not inclusive of all \npotential scenarios \n\u2022 \nContent in brackets is subject to change or omission based on the scenario",
+    [
+        [
+            {
+                "JA Number": "JA-020",
+                "Title": "Salesforce Case Comments & Chatter",
+                "Version": 3,
+                "Effective Date": "06MAR2024"
+            }
+        ],
+        [
+            {
+                "NPS Role": "PSC Intake Specialist"
+            },
+            {
+                "NPS Role": "Cosentyx Care Navigator"
+            },
+            {
+                "NPS Role": "PSC Reimbursement Specialist"
+            },
+            {
+                "NPS Role": "Scemblix/Kisqali Patient Navigator"
+            },
+            {
+                "NPS Role": "Cosentyx Access & Reimbursement Manager (ARM)"
+            },
+            {
+                "NPS Role": "Cosentyx/Scemblix/Kisqali Associate Director, Access & Reimbursement (ADAR)"
+            },
+            {
+                "NPS Role": "Performance Excellence Analyst supporting Cosentyx, Scemblix, and/or Kisqali"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 2 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \n3. GUIDANCE FOR CASE COMMENTS & CHATTER (ALL ROLES) \n \nCase Comments: \nDO: \nDO NOT: \n\u2022 \nDocument information relevant to the case \n\u2022 \nCase Comments saved in child cases will display in both \nthe child case and the Inbound Parent case linked to \nthose child cases \n \n\u2022 \nUse as a communication method between Salesforce \nUsers \n\u2022 \nDocument any Protected Health Information (PHI) \no \nWhat is considered PHI?: Any unique identifier \nthat can be linked to a patient and/or caregiver. \ni.e., Patient and/or Caregiver first and/or last \nname, date of birth, address, phone number, \nemail, Insurance ID, Co-pay ID \n\u2022 \nDocument any details regarding a PAE/PTC report (use \nthe PVI tool as trained for reporting) \nChatter: \nDO: \nDO NOT: \n\u2022 \nUse to collaborate about a case with team members \n\u2022 \nUse to ask timely clarifying questions on a case that are \nnot already listed in tasks or case comments \n\u2022 \nChatter from the Inbound Parent Case that is attached to \nan Inbound Document Case \n\u2022 \nUse to alert a case owner of any updates or actions \ntaken and/or to be completed regarding their case \n\u2022 \nAlert when a new case has been assigned \n\u2022 \nTag the individual every time you reply to a chatter \n\u2022 \nUse as an escalation between the PSC and \nARMs/ADARs, as escalations are created using Task \nManager \n\u2022 \nUse as an everyday communication tool pertaining to \ninformation not associated to a patient case \n\u2022 \nUse for any PAE/PTC details (use the PVI tool as trained \nfor reporting) \n\u2022 \nInclude any Protected Health Information (PHI) \no \nWhat is considered PHI?: Any unique identifier \nthat can be linked to a patient and/or caregiver. \ni.e., Patient and/or Caregiver first and/or last \nname, date of birth, address, phone number, \nemail, Insurance ID, Co-pay ID \n \n4. INTAKE SPECIALIST (IS) \n \n \n4.1 IS: CASE COMMENTS \n \nStep # \nAction \n1 \nIS receives and processes a new Inbound Document case \n2 \nIS adds appropriate case comments. Case Comments can be added in either the \u201cInternal Comments\u201d field or in \nthe \u201cCase Comments\u201d section. \nIF \nTHEN \nIS documents chatter communication to the CN/PN \nIS copy and pastes the chatter communication in the case comments \non the Inbound Parent Case \nIS completes a profile update \nReceived inbound document and updated the [patient\u2019s, caregiver\u2019s \nand/or HCP\u2019s] [note any fields that were updated], as information was \n[incorrect or missing]. \n \nIS reports a PAE in the PVI tool \nPAE identified on the Start Form, submitted via the PVI tool, and \nreceived confirmation email. [PVI#] \n \n \n \n4.2 IS: CHATTER",
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "DO:",
+                "Case Comments:": "DO NOT:"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Document information relevant to the case",
+                "Case Comments:": "\u2022 Use as a communication method between Salesforce"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Case Comments saved in child cases will display in both",
+                "Case Comments:": "Users"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "the child case and the Inbound Parent case linked to",
+                "Case Comments:": "\u2022 Document any Protected Health Information (PHI)"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "those child cases",
+                "Case Comments:": "o What is considered PHI?: Any unique identifier"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "that can be linked to a patient and/or caregiver."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "i.e., Patient and/or Caregiver first and/or last"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "name, date of birth, address, phone number,"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "email, Insurance ID, Co-pay ID"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "\u2022 Document any details regarding a PAE/PTC report (use"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "the PVI tool as trained for reporting)"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "Chatter:"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "DO:",
+                "Case Comments:": "DO NOT:"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Use to collaborate about a case with team members",
+                "Case Comments:": "\u2022 Use as an escalation between the PSC and"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Use to ask timely clarifying questions on a case that are",
+                "Case Comments:": "ARMs/ADARs, as escalations are created using Task"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "not already listed in tasks or case comments",
+                "Case Comments:": "Manager"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Chatter from the Inbound Parent Case that is attached to",
+                "Case Comments:": "\u2022 Use as an everyday communication tool pertaining to"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "an Inbound Document Case",
+                "Case Comments:": "information not associated to a patient case"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Use to alert a case owner of any updates or actions",
+                "Case Comments:": "\u2022 Use for any PAE/PTC details (use the PVI tool as trained"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "taken and/or to be completed regarding their case",
+                "Case Comments:": "for reporting)"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Alert when a new case has been assigned",
+                "Case Comments:": "\u2022 Include any Protected Health Information (PHI)"
+            },
+            {
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Tag the individual every time you reply to a chatter",
+                "Case Comments:": "o What is considered PHI?: Any unique identifier"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "that can be linked to a patient and/or caregiver."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "i.e., Patient and/or Caregiver first and/or last"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "name, date of birth, address, phone number,"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Case Comments:": "email, Insurance ID, Co-pay ID"
+            }
+        ],
+        [
+            {
+                "Step # Action": "1 IS receives and processes a new Inbound Document case",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "2 IS adds appropriate case comments. Case Comments can be added in either the \u201cInternal Comments\u201d field or in",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "the \u201cCase Comments\u201d section.",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "IF",
+                "Unnamed: 0": "THEN"
+            },
+            {
+                "Step # Action": "IS documents chatter communication to the CN/PN",
+                "Unnamed: 0": "IS copy and pastes the chatter communication in the case comments"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "on the Inbound Parent Case"
+            },
+            {
+                "Step # Action": "IS completes a profile update",
+                "Unnamed: 0": "Received inbound document and updated the [patient\u2019s, caregiver\u2019s"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "and/or HCP\u2019s] [note any fields that were updated], as information was"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[incorrect or missing]."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "IS reports a PAE in the PVI tool",
+                "Unnamed: 0": "PAE identified on the Start Form, submitted via the PVI tool, and"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "received confirmation email. [PVI#]"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 3 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nStep # \nAction \n1 \nIS receives and processes a new Inbound Document case \n2 \nIS determines which CN/PN is or should be assigned using the CN and ADAR/ARM look-up spreadsheet (if an \nowner is not assigned by the system automatically) \n3 \nIS navigates to the Inbound Parent Case, clicks the \u201cChatter\u201d tab and drafts the message in the \u201cShare an \nupdate...\u201d field: \n \nIF \nTHEN \nIS receives an inbound document for a new \npatient: \n@CN/PN\u2019sName New case received and is awaiting acceptance from \nthe New Parent Case CN queue. \n[Start Form was received for IV formulation of Cosentyx]* \n[Case has been re-assigned as [CN/PN Name] is out of office] \n[Missing Information: list out in bullet points] \n[PAE Reported] \n \n*If any Start Forms are received for Cosentyx IV, the IS should \nadditionally chatter the ADAR/ARM* \nIS receives an inbound document for an existing \npatient: \n@CN/PN\u2019sName Additional [duplicate] document received and \nattached. \n[Case has been re-assigned as [CN/PN Name] is out of office] \n[Missing Information: list out in bullet points] \n[Missing Information Updated: list out in bullet points] \n[PAE Reported] \n \n*If case is related to a Cosentyx IV patient, the IS additionally chatters \nthe ADAR/ARM* \nIS receives an inbound document, after a case was \nclosed: \n@CN/PN\u2019sName New case received, additional [duplicate] document \nreceived after case was closed, it is awaiting acceptance from the New \nParent Case queue. \n[Case has been re-assigned as [CN/PN\u2019s Name] is out of office] \n[Missing Information: list out in bullet points] \n[Missing Information Updated: list out in bullet points] \n[PAE Reported] \n \n5. CARE NAVIGATOR (CN) / PATIENT NAVIGATOR (PN)",
+    [
+        [
+            {
+                "Step # Action": "1 IS receives and processes a new Inbound Document case",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "2 IS determines which CN/PN is or should be assigned using the CN and ADAR/ARM look-up spreadsheet (if an",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "owner is not assigned by the system automatically)",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "3 IS navigates to the Inbound Parent Case, clicks the \u201cChatter\u201d tab and drafts the message in the \u201cShare an",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "update...\u201d field:",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "IF",
+                "Unnamed: 0": "THEN"
+            },
+            {
+                "Step # Action": "IS receives an inbound document for a new",
+                "Unnamed: 0": "@CN/PN\u2019sName New case received and is awaiting acceptance from"
+            },
+            {
+                "Step # Action": "patient:",
+                "Unnamed: 0": "the New Parent Case CN queue."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Start Form was received for IV formulation of Cosentyx]*"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Case has been re-assigned as [CN/PN Name] is out of office]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Missing Information: list out in bullet points]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[PAE Reported]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "*If any Start Forms are received for Cosentyx IV, the IS should"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "additionally chatter the ADAR/ARM*"
+            },
+            {
+                "Step # Action": "IS receives an inbound document for an existing",
+                "Unnamed: 0": "@CN/PN\u2019sName Additional [duplicate] document received and"
+            },
+            {
+                "Step # Action": "patient:",
+                "Unnamed: 0": "attached."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Case has been re-assigned as [CN/PN Name] is out of office]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Missing Information: list out in bullet points]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Missing Information Updated: list out in bullet points]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[PAE Reported]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "*If case is related to a Cosentyx IV patient, the IS additionally chatters"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "the ADAR/ARM*"
+            },
+            {
+                "Step # Action": "IS receives an inbound document, after a case was",
+                "Unnamed: 0": "@CN/PN\u2019sName New case received, additional [duplicate] document"
+            },
+            {
+                "Step # Action": "closed:",
+                "Unnamed: 0": "received after case was closed, it is awaiting acceptance from the New"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "Parent Case queue."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Case has been re-assigned as [CN/PN\u2019s Name] is out of office]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Missing Information: list out in bullet points]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Missing Information Updated: list out in bullet points]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[PAE Reported]"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 4 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \n \n5.1 CN/PN: CASE COMMENTS \n \nStep # \nAction \n1 \nCN/PN adds appropriate case comments. Case Comments can be added in either the \u201cInternal Comments\u201d field or \nin the \u201cCase Comments\u201d section. \nIF \nTHEN \nCN/PN reports a PAE in the PVI tool \nPAE submitted via the PVI tool, and received confirmation \nemail. [Transferred to or mailed] PI and transferred to ISI.  \n[PVI#] \nCN/PN receives a general inquiry \n[Caller Type] called in regards to [reason for call]. I reviewed \n[items reviewed].  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \nCN/PN receives an inbound call for a co-pay, adherence, \nFTO (Kisqali/Scemblix Only), and/or sharps container \n(Cosentyx Only) enrollment \n[Patient or Caregiver] called to [insert reason for call].  \n \nExamples depending on reason for call: \nSuccessful enrollment in [FTO, co-pay, adherence and/or \nsharps container]. [Adherence program was offered and \npatient opted-in or opted-out.] [Caller confirmed they have \nprivate or commercial insurance and are eligible for the co-\npay. ] [Caller opted to receive co-pay details verbally, via \nSMS and/or email.] \n \n[Transferred to or mailed] PI and transferred to ISI. \nCN/PN completes a profile update \n[[Spoke with the patient] or [Received Inbound Document]] \nand updated the [patient\u2019s, caregiver\u2019s or HCP\u2019s] [note any \nfields that were updated], as information was [incorrect or \nmissing].  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \nCN/PN reviews case and patient situation and then transfers \nto NPAF \n \n \n \n \n \nSpoke with [patient or caregiver] and they expressed financial \nhardship. [The patient is not eligible for the [co-pay and/or \nBridge/CYC] program due to [insert ineligibility reason].] [The \npatient advised that the co-pay card will not cover their out-\nof-pocket expenses for the remainder of the calendar year.] I \nprovided the [phone number and/or website] for NPAF [cold \ntransferred and/or faxed NPAF referral and Start Form.]  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \nCN/PN reviews and transfers to CIC \n \n \n \n \n \nSpoke with [caller type] and they requested [insert item(s) \nrequested]. I provided the CIC phone number, connected \nwith [CIC Representative Name] at the CIC and warm \ntransferred. [CIC Reference#]  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \nCN/PN transfers to IQVIA \nSpoke with [caller type] and they were looking for additional \nassistance with [reason they need to be connected with",
+    [
+        [
+            {
+                "Step # Action": "1 CN/PN adds appropriate case comments. Case Comments can be added in either the \u201cInternal Comments\u201d field or",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "in the \u201cCase Comments\u201d section.",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "IF",
+                "Unnamed: 0": "THEN"
+            },
+            {
+                "Step # Action": "CN/PN reports a PAE in the PVI tool",
+                "Unnamed: 0": "PAE submitted via the PVI tool, and received confirmation"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "email. [Transferred to or mailed] PI and transferred to ISI."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[PVI#]"
+            },
+            {
+                "Step # Action": "CN/PN receives a general inquiry",
+                "Unnamed: 0": "[Caller Type] called in regards to [reason for call]. I reviewed"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[items reviewed]."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Step # Action": "CN/PN receives an inbound call for a co-pay, adherence,",
+                "Unnamed: 0": "[Patient or Caregiver] called to [insert reason for call]."
+            },
+            {
+                "Step # Action": "FTO (Kisqali/Scemblix Only), and/or sharps container",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "(Cosentyx Only) enrollment",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "Examples depending on reason for call:"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "Successful enrollment in [FTO, co-pay, adherence and/or"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "sharps container]. [Adherence program was offered and"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "patient opted-in or opted-out.] [Caller confirmed they have"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "private or commercial insurance and are eligible for the co-"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "pay. ] [Caller opted to receive co-pay details verbally, via"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "SMS and/or email.]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[Transferred to or mailed] PI and transferred to ISI."
+            },
+            {
+                "Step # Action": "CN/PN completes a profile update",
+                "Unnamed: 0": "[[Spoke with the patient] or [Received Inbound Document]]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "and updated the [patient\u2019s, caregiver\u2019s or HCP\u2019s] [note any"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "fields that were updated], as information was [incorrect or"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "missing]."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Step # Action": "CN/PN reviews case and patient situation and then transfers",
+                "Unnamed: 0": "Spoke with [patient or caregiver] and they expressed financial"
+            },
+            {
+                "Step # Action": "to NPAF",
+                "Unnamed: 0": "hardship. [The patient is not eligible for the [co-pay and/or"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "Bridge/CYC] program due to [insert ineligibility reason].] [The"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "patient advised that the co-pay card will not cover their out-"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "of-pocket expenses for the remainder of the calendar year.] I"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "provided the [phone number and/or website] for NPAF [cold"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "transferred and/or faxed NPAF referral and Start Form.]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Step # Action": "CN/PN reviews and transfers to CIC",
+                "Unnamed: 0": "Spoke with [caller type] and they requested [insert item(s)"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "requested]. I provided the CIC phone number, connected"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "with [CIC Representative Name] at the CIC and warm"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "transferred. [CIC Reference#]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "CN/PN transfers to IQVIA",
+                "Unnamed: 0": "Spoke with [caller type] and they were looking for additional"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "assistance with [reason they need to be connected with"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 5 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nIQVIA]. [What information you reviewed or provided to the \ncaller before referring to IQVIA.] I connected with [IQVIA \nRepresentative Name] at IQVIA and warm transferred. \n[Representative was advised that the caller needed to be \ntransferred to ISI after the call.] \nCN/PN phone transfers to McKesson (PANO) (applies to \nongoing Oncology patients not migrated to Leap) \nSpoke with [caller type] and they were requesting [to connect \nwith their case manager or looking for a case update]. I \nconfirmed in Salesforce that the patient is active and was not \nmigrated to Leap. I connected with [McKesson \nRepresentative Name] at McKesson and warm transferred. \n[Representative was advised that the caller needed to be \ntransferred to ISI after the call.] \nCN/PN fax transfers to McKesson (PANO) (applies to \nongoing Oncology patients not migrated to Leap) \n \n \n \n \nCase transferred to McKesson [reason for transfer]. All \nassociated cases have been closed in Salesforce.  \n \n*Case Comments should be saved in the Inbound Parent \nCase that is associated with the Inbound Document case(s) \nand where the bundle was faxed from* \nCN/PN transfers to RxCrossroads \nSpoke with [caller type] and they requested [reason for \ntransfer]. I confirmed in [Resilix or Salesforce] that the patient \nis actively enrolled in [CYC / Bridge Program]. I connected \nwith [RxCrossroads Representative Name] at RxCrossroads \nand warm transferred. [Representative was advised that the \ncaller needed to be transferred to ISI after the call.] \nCN/PN faxes and/or calls the HCP \n[Attempt #: X] [Called or Faxed] HCP at [time and date] to \nadvise of [reason for call or fax], [left a voicemail]. \nA Patient or Caregiver is called, emailed and/or texted \n[Attempt #: X] [Called, emailed and/or texted] the [patient or \ncaregiver] at [time and date] to advise of [reason for call, \nemail and/or text].  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \n-OR- \n[Left a voicemail.] \nCN/PN receives a case with Missing Information  \n \n \n \n[Faxed HCP at [time and date] to advise of MI.] Missing \nInformation Includes: [list out missing information] \n \n*Case Comments should be saved in the Missing Information \ncase* \nCN/PN conducts a non-promotional/transactional Welcome \nCall to the patient or caregiver \n[Attempt #: X] Called [patient or caregiver] at [time and date] \nfor Welcome Call and advised of [Missing Information, BV or \nCE results, Enrollments and/or Triage].  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \n \n*For BV & CE tasks, case comments should be saved in the \ncase comments section*",
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "caller before referring to IQVIA.] I connected with [IQVIA"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "Representative Name] at IQVIA and warm transferred."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "[Representative was advised that the caller needed to be"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "transferred to ISI after the call.]"
+            },
+            {
+                "Unnamed: 0": "CN/PN phone transfers to McKesson (PANO) (applies to",
+                "IQVIA]. [What information you reviewed or provided to the": "Spoke with [caller type] and they were requesting [to connect"
+            },
+            {
+                "Unnamed: 0": "ongoing Oncology patients not migrated to Leap)",
+                "IQVIA]. [What information you reviewed or provided to the": "with their case manager or looking for a case update]. I"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "confirmed in Salesforce that the patient is active and was not"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "migrated to Leap. I connected with [McKesson"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "Representative Name] at McKesson and warm transferred."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "[Representative was advised that the caller needed to be"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "transferred to ISI after the call.]"
+            },
+            {
+                "Unnamed: 0": "CN/PN fax transfers to McKesson (PANO) (applies to",
+                "IQVIA]. [What information you reviewed or provided to the": "Case transferred to McKesson [reason for transfer]. All"
+            },
+            {
+                "Unnamed: 0": "ongoing Oncology patients not migrated to Leap)",
+                "IQVIA]. [What information you reviewed or provided to the": "associated cases have been closed in Salesforce."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "*Case Comments should be saved in the Inbound Parent"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "Case that is associated with the Inbound Document case(s)"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "and where the bundle was faxed from*"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": "CN/PN transfers to RxCrossroads",
+                "IQVIA]. [What information you reviewed or provided to the": "Spoke with [caller type] and they requested [reason for"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "transfer]. I confirmed in [Resilix or Salesforce] that the patient"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "is actively enrolled in [CYC / Bridge Program]. I connected"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "with [RxCrossroads Representative Name] at RxCrossroads"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "and warm transferred. [Representative was advised that the"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "caller needed to be transferred to ISI after the call.]"
+            },
+            {
+                "Unnamed: 0": "CN/PN faxes and/or calls the HCP",
+                "IQVIA]. [What information you reviewed or provided to the": "[Attempt #: X] [Called or Faxed] HCP at [time and date] to"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "advise of [reason for call or fax], [left a voicemail]."
+            },
+            {
+                "Unnamed: 0": "A Patient or Caregiver is called, emailed and/or texted",
+                "IQVIA]. [What information you reviewed or provided to the": "[Attempt #: X] [Called, emailed and/or texted] the [patient or"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "caregiver] at [time and date] to advise of [reason for call,"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "email and/or text]."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "-OR-"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "[Left a voicemail.]"
+            },
+            {
+                "Unnamed: 0": "CN/PN receives a case with Missing Information",
+                "IQVIA]. [What information you reviewed or provided to the": "[Faxed HCP at [time and date] to advise of MI.] Missing"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "Information Includes: [list out missing information]"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "*Case Comments should be saved in the Missing Information"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "case*"
+            },
+            {
+                "Unnamed: 0": "CN/PN conducts a non-promotional/transactional Welcome",
+                "IQVIA]. [What information you reviewed or provided to the": "[Attempt #: X] Called [patient or caregiver] at [time and date]"
+            },
+            {
+                "Unnamed: 0": "Call to the patient or caregiver",
+                "IQVIA]. [What information you reviewed or provided to the": "for Welcome Call and advised of [Missing Information, BV or"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "CE results, Enrollments and/or Triage]."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": NaN
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "*For BV & CE tasks, case comments should be saved in the"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "IQVIA]. [What information you reviewed or provided to the": "case comments section*"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 6 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nCN/PN reviews BV and/or CE outcomes with the patient or \ncaregiver, if non-promotional/transactional call was previously \ncompleted \n[Attempt #: X] Called [patient or caregiver] at [time and date] \nto relay [BV and/or CE] results: [BV and/or CE results], \n[enrollments and/or triage].  \n \n[[Transferred to or mailed PI] and [transferred to ISI]]. \n \n*For BV & CE tasks, case comments should be saved in the \ncase comments section* \nCN/PN completes a Start Form enrollment for co-pay, \nadherence and/or sharps container (Cosentyx Only) \nenrollment \nBased on [BV or CE] outcome and Start Form consents, \npatient is eligible for and was successfully enrolled in [co-pay, \nadherence and/or sharps container].  \nCN/PN commercially triages the patient \n \n \nPatient triaged [date and time] and [faxed HCP the Triaged to \nPharmacy fax]. \n \n*Case Comments should be saved in the Triage case* \nCN/PN manually triages the patient \n \n \nPatient manually triaged [date and time] [reason for manually \ntriaging] and [faxed HCP the Triaged to Pharmacy fax]. \n \n*Case Comments should be saved in the Triage case* \nCN opened a bridge case as part of data migration case work \n(Cosentyx Only) \n \n \nThis is a data migration bridge patient, a triage case was not \ncreated/completed as the Rx was previously triaged by \nMcKesson. \n \n*Case Comments should be saved in the Bridge case* \nPatient is enrolled in the CYC Pilot Program Extension \n(Cosentyx Only) \n \n \n \n \nPatient is enrolled in the CYC Pilot Program Extension, and \nthe lifetime limit reached removal date has been extended to \n[lifetime limit removal date], all expiration communications \nhave been suspended. \n \n*Case Comments should be saved in the Bridge case* \nEscalated a case to an ARM/ADAR \n \n \nCase was escalated to ARM/ADAR: [ARM/ADAR Name] due \nto [reason for escalation] on [date of escalation]. \n*Escalations are sent through Task Manager* \nOffice is no call or no fax \nHCP\u2019s office is [no call and/or no fax], this case has been \nescalated to the ARM/ADAR: [ARM/ADAR Name] to follow-\nup on [action item requested]. \nCN/PN receives a call regarding another CN/PN\u2019s open \ninbound document parent case \nIn the inbound phone case: [Caller Type] called in regards to \n[reason for call] [recap call and if the Case owner needs to \ntake any action OR if call was transferred to the Case owner]. \nChattered [CN/PN]. [Reference Inbound Start Form Parent \nCase#] \n \nIn the Start Form inbound parent case: [Caller Type] called in \nregards to [reason for call] [recap call and if the Case owner \nneeds to take any action OR if call was transferred to the \nCase owner]. Chattered [CN/PN]. [Reference Inbound Phone \nCase#]",
+    [
+        [
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "caregiver, if non-promotional/transactional call was previously",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "to relay [BV and/or CE] results: [BV and/or CE results],"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "completed",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "[enrollments and/or triage]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "[[Transferred to or mailed PI] and [transferred to ISI]]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*For BV & CE tasks, case comments should be saved in the"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "case comments section*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "CN/PN completes a Start Form enrollment for co-pay,",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Based on [BV or CE] outcome and Start Form consents,"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "adherence and/or sharps container (Cosentyx Only)",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "patient is eligible for and was successfully enrolled in [co-pay,"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "enrollment",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "adherence and/or sharps container]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "CN/PN commercially triages the patient",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Patient triaged [date and time] and [faxed HCP the Triaged to"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Pharmacy fax]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*Case Comments should be saved in the Triage case*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "CN/PN manually triages the patient",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Patient manually triaged [date and time] [reason for manually"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "triaging] and [faxed HCP the Triaged to Pharmacy fax]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*Case Comments should be saved in the Triage case*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "CN opened a bridge case as part of data migration case work",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "This is a data migration bridge patient, a triage case was not"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "(Cosentyx Only)",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "created/completed as the Rx was previously triaged by"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "McKesson."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*Case Comments should be saved in the Bridge case*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "Patient is enrolled in the CYC Pilot Program Extension",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Patient is enrolled in the CYC Pilot Program Extension, and"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "(Cosentyx Only)",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "the lifetime limit reached removal date has been extended to"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "[lifetime limit removal date], all expiration communications"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "have been suspended."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*Case Comments should be saved in the Bridge case*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "Escalated a case to an ARM/ADAR",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Case was escalated to ARM/ADAR: [ARM/ADAR Name] due"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "to [reason for escalation] on [date of escalation]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "*Escalations are sent through Task Manager*"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "Office is no call or no fax",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "HCP\u2019s office is [no call and/or no fax], this case has been"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "escalated to the ARM/ADAR: [ARM/ADAR Name] to follow-"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "up on [action item requested]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "CN/PN receives a call regarding another CN/PN\u2019s open",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "In the inbound phone case: [Caller Type] called in regards to"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": "inbound document parent case",
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "[reason for call] [recap call and if the Case owner needs to"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "take any action OR if call was transferred to the Case owner]."
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Chattered [CN/PN]. [Reference Inbound Start Form Parent"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Case#]"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": NaN
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "In the Start Form inbound parent case: [Caller Type] called in"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "regards to [reason for call] [recap call and if the Case owner"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "needs to take any action OR if call was transferred to the"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Case owner]. Chattered [CN/PN]. [Reference Inbound Phone"
+            },
+            {
+                "CN/PN reviews BV and/or CE outcomes with the patient or": NaN,
+                "[Attempt #: X] Called [patient or caregiver] at [time and date]": "Case#]"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 7 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \n5.2 CN/PN: CHATTER \n \nStep # \nAction \n*Note: The CN should be chattering the ADAR/ARM anytime there is an update with a Cosentyx IV case* \n1 \nCN/PN navigates to the Inbound Parent Case linked to the Inbound Document case(s), clicks the \u201cChatter\u201d tab and \ndrafts the message in the \u201cShare an update...\u201d field: \n \n \nIF \nTHEN \nCN/PN takes a call for another CN\u2019s case \n@CN/PN\u2019sName Spoke with [caller type] and [recap call and \nif the CN needs to take any action] \nCN/PN needs to request for cases and/or tasks to be re-\nassigned \n@TL/AD\u2019sName Please re-assign [Case# and/or Task#] to \nme, as I am actively working the [case(s) and/or task(s)], and \nam not currently the owner. \nCN/PN needs to request for a Coverage Exception case to \nbe opened \n@RS\u2019sName HCP confirmed the [Coverage Exception Type] \nhas been submitted if you would please open a [Coverage \nException Type] case and follow-up with the payer. \nCN/PN needs to request for a fax to be re-sent by the RS \n(i.e., Summary of Benefits (SOB), Prior Authorization form, \nAppeal Requirements, etc.) \n@RS\u2019sName Spoke with the HCP and they requested you re-\nsend the [fax name] fax, if you would please re-send to \n[HCP\u2019s fax number] and confirm once it is completed. \nCN/PN is unable to answer an inquiry regarding a Benefit \nVerification (BV) or Coverage Exception (CE) case and the \ninformation is not found in the case comments and/or faxes \n@RS\u2019sName Spoke with the [caller type] and they are \nlooking for additional information regarding [request \ninformation] if you would please advise.  \nCN/PN is unable to determine if there is a preferred or \nmandated Specialty Pharmacy, the patient\u2019s co-pay or the \nCoverage Exception (CE) outcome, as it is not listed in the \ncase comments and/or faxes \n@RS\u2019sName Unable to locate the [item missing], if you would \nplease advise, so I can proceed with the case.  \nCN/PN following up on an escalation to the ARM/ADAR \n@ARM/ADAR\u2019sName Following up on if you were able to get \nin touch with the HCP\u2019s office regarding [escalation request] \nand have an update, please advise.  \nCN/PN needs to confirm or request an HCP\u2019s Phone and/or \nFax Number \n@ARM/ADAR\u2019sName Please confirm [HCP & Facility \nNames] [phone and/or fax numbers].",
+    [
+        [
+            {
+                "Step # Action": "*Note: The CN should be chattering the ADAR/ARM anytime there is an update with a Cosentyx IV case*",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "1 CN/PN navigates to the Inbound Parent Case linked to the Inbound Document case(s), clicks the \u201cChatter\u201d tab and",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "drafts the message in the \u201cShare an update...\u201d field:",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "IF THEN"
+            },
+            {
+                "Step # Action": "CN/PN takes a call for another CN\u2019s case",
+                "Unnamed: 0": "@CN/PN\u2019sName Spoke with [caller type] and [recap call and"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "if the CN needs to take any action]"
+            },
+            {
+                "Step # Action": "CN/PN needs to request for cases and/or tasks to be re-",
+                "Unnamed: 0": "@TL/AD\u2019sName Please re-assign [Case# and/or Task#] to"
+            },
+            {
+                "Step # Action": "assigned",
+                "Unnamed: 0": "me, as I am actively working the [case(s) and/or task(s)], and"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "am not currently the owner."
+            },
+            {
+                "Step # Action": "CN/PN needs to request for a Coverage Exception case to",
+                "Unnamed: 0": "@RS\u2019sName HCP confirmed the [Coverage Exception Type]"
+            },
+            {
+                "Step # Action": "be opened",
+                "Unnamed: 0": "has been submitted if you would please open a [Coverage"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "Exception Type] case and follow-up with the payer."
+            },
+            {
+                "Step # Action": "CN/PN needs to request for a fax to be re-sent by the RS",
+                "Unnamed: 0": "@RS\u2019sName Spoke with the HCP and they requested you re-"
+            },
+            {
+                "Step # Action": "(i.e., Summary of Benefits (SOB), Prior Authorization form,",
+                "Unnamed: 0": "send the [fax name] fax, if you would please re-send to"
+            },
+            {
+                "Step # Action": "Appeal Requirements, etc.)",
+                "Unnamed: 0": "[HCP\u2019s fax number] and confirm once it is completed."
+            },
+            {
+                "Step # Action": "CN/PN is unable to answer an inquiry regarding a Benefit",
+                "Unnamed: 0": "@RS\u2019sName Spoke with the [caller type] and they are"
+            },
+            {
+                "Step # Action": "Verification (BV) or Coverage Exception (CE) case and the",
+                "Unnamed: 0": "looking for additional information regarding [request"
+            },
+            {
+                "Step # Action": "information is not found in the case comments and/or faxes",
+                "Unnamed: 0": "information] if you would please advise."
+            },
+            {
+                "Step # Action": "CN/PN is unable to determine if there is a preferred or",
+                "Unnamed: 0": "@RS\u2019sName Unable to locate the [item missing], if you would"
+            },
+            {
+                "Step # Action": "mandated Specialty Pharmacy, the patient\u2019s co-pay or the",
+                "Unnamed: 0": "please advise, so I can proceed with the case."
+            },
+            {
+                "Step # Action": "Coverage Exception (CE) outcome, as it is not listed in the",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "case comments and/or faxes",
+                "Unnamed: 0": NaN
+            },
+            {
+                "Step # Action": "CN/PN following up on an escalation to the ARM/ADAR",
+                "Unnamed: 0": "@ARM/ADAR\u2019sName Following up on if you were able to get"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "in touch with the HCP\u2019s office regarding [escalation request]"
+            },
+            {
+                "Step # Action": NaN,
+                "Unnamed: 0": "and have an update, please advise."
+            },
+            {
+                "Step # Action": "CN/PN needs to confirm or request an HCP\u2019s Phone and/or",
+                "Unnamed: 0": "@ARM/ADAR\u2019sName Please confirm [HCP & Facility"
+            },
+            {
+                "Step # Action": "Fax Number",
+                "Unnamed: 0": "Names] [phone and/or fax numbers]."
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 8 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nREFERENCE & RELATED DOCUMENTS \n \nDocument # \nName \nWPD-PSS-CEC-018 \nNPS Patient Support Center - ISI & PI Transfer Guidance \n \n*List of documents is current as of Effective date of this Work Instruction. Documents may have changed.",
+    [
+        [
+            {
+                "Document #": "WPD-PSS-CEC-018",
+                "Name": "NPS Patient Support Center - ISI & PI Transfer Guidance"
+            }
+        ]
+    ],
+    "Job Aid for Salesforce Case Comments & Chatter for \nNovartis Patient Support Center \nPage 9 of 9 \nThis JA once downloaded or printed is an uncontrolled copy and only effective for 24 hrs. \nPlease refer to the official WPD repository for the most current and effective version. \nBusiness Use Only \n \nApprovals \n \nRole \nName \nSignature \nAuthor \nKelsee Fleck \n \n \n \n \n \nPSC Approver \nJuan De Los Angeles \n \n \n \n \n \n \nJA Version History \n \nVersion \n# \nDescription of Change \nAuthor \nVersion Date \n(DDMMMYYYY) \n01 \nNew \nKelsee Fleck \n08MAY2023 \n02 \nUpdates: \n\u2022 \nUpdated to new JA template \n\u2022 \nRemoved Cosentyx PSLs from training and communications \n\u2022 \nRemoved individual case comment and chatter sections for \nCosentyx Reimbursement Specialists & ADARs/ARMs \n\u2022 \nSplit into 4 content blocks: 1Guidance for Case Comments & \nChatter 2Intake Specialist 3Care Navigator  \n\u2022 \nAdded note at beginning regarding bracketed information \n\u2022 \nIn Sections 4.1, 5.1, 5.2 & 6: Removed astericked points at \nend of each content block \n\u2022 \nIn Section 4.1 & 5.1: Removed case comments screen shot \n\u2022 \nIn Section 4.2, added notes that the IS should additionally \nchatter the ADAR for any new or updated IV cases \n\u2022 \nIn Section 5.2, added note at top that the CN should chatter \nthe ADAR/ARM anytime there is an update with an IV case \nKelsee Fleck \n09OCT2023 \n03 \nUpdates: \n\u2022 \nRemoved Cosentyx from the title, since this is a multi-brand \ndocument \n\u2022 \nAdded PN role to account for Scemblix/Kisqali Patient \nNavigators (PN) and their Associate Director (AD) direct \nescalation points \n\u2022 \nAdded Oncology ADAR Field Role, updated references to \nescalations to ARMs to \u201cARMs/ADARs\u201d where applicable \nSection 5.1: \n\u2022 \nIn the phone enrollment scenario, included FTO for \nKisqali/Scemblix \n\u2022 \nUpdated the phone/fax transfer scenarios to McKesson, to be \nPANO specific, since Cosentyx shouldn\u2019t be transferring \nanything to McK \nKelsee Fleck \n06MAR2024 \n \nFleck Kelsee\nDigitally signed by Fleck Kelsee \nDN: dc=com, dc=novartis, ou=people, \nou=PH, serialNumber=3019013, \ncn=Fleck Kelsee \nReason: I am the author of this document \nDate: 2024.02.21 09:50:43 -05'00'\nSIGN",
+    [
+        [
+            {
+                "Role": "Author",
+                "Name": "Kelsee Fleck",
+                "Signature": NaN
+            },
+            {
+                "Role": NaN,
+                "Name": NaN,
+                "Signature": NaN
+            },
+            {
+                "Role": NaN,
+                "Name": NaN,
+                "Signature": NaN
+            },
+            {
+                "Role": NaN,
+                "Name": NaN,
+                "Signature": NaN
+            },
+            {
+                "Role": NaN,
+                "Name": NaN,
+                "Signature": NaN
+            },
+            {
+                "Role": "PSC Approver",
+                "Name": "Juan De Los Angeles",
+                "Signature": NaN
+            }
+        ],
+        [
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Description of Change",
+                "Unnamed: 2": "Author",
+                "Version Date": NaN
+            },
+            {
+                "Version": "#",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Version Date": "(DDMMMYYYY)"
+            },
+            {
+                "Version": "01",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "New",
+                "Unnamed: 2": "Kelsee Fleck",
+                "Version Date": "08MAY2023"
+            },
+            {
+                "Version": "02",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Updates:",
+                "Unnamed: 2": "Kelsee Fleck",
+                "Version Date": "09OCT2023"
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Updated to new JA template",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Removed Cosentyx PSLs from training and communications",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Removed individual case comment and chatter sections for",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Cosentyx Reimbursement Specialists & ADARs/ARMs",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Split into 4 content blocks: 1Guidance for Case Comments &",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Chatter 2Intake Specialist 3Care Navigator",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Added note at beginning regarding bracketed information",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "In Sections 4.1, 5.1, 5.2 & 6: Removed astericked points at",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "end of each content block",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "In Section 4.1 & 5.1: Removed case comments screen shot",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "In Section 4.2, added notes that the IS should additionally",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "chatter the ADAR for any new or updated IV cases",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "In Section 5.2, added note at top that the CN should chatter",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "the ADAR/ARM anytime there is an update with an IV case",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": "03",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Updates:",
+                "Unnamed: 2": "Kelsee Fleck",
+                "Version Date": "06MAR2024"
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Removed Cosentyx from the title, since this is a multi-brand",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "document",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Added PN role to account for Scemblix/Kisqali Patient",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Navigators (PN) and their Associate Director (AD) direct",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "escalation points",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Added Oncology ADAR Field Role, updated references to",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "escalations to ARMs to \u201cARMs/ADARs\u201d where applicable",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "Section 5.1:",
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "In the phone enrollment scenario, included FTO for",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Kisqali/Scemblix",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": "\u2022",
+                "Unnamed: 1": "Updated the phone/fax transfer scenarios to McKesson, to be",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "PANO specific, since Cosentyx shouldn\u2019t be transferring",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            },
+            {
+                "Version": NaN,
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "anything to McK",
+                "Unnamed: 2": NaN,
+                "Version Date": NaN
+            }
+        ]
+    ]
+]
